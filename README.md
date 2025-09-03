@@ -1,7 +1,5 @@
 # Vector DB Benchmark for Music Semantic Search
 
-> **This project is part of the Vector Database Benchmarking video:**
-> [https://youtu.be/X0PwwfcGSHU](https://youtu.be/X0PwwfcGSHU)
 
 This repository benchmarks multiple vector databases for music semantic search, using a shared dataset and query set. It provides both a CLI benchmarking tool and a web UI for side-by-side DB comparison.
 
@@ -167,3 +165,4 @@ uvicorn backend.server:app --reload --port 8000
 - [Muse Musical Sentiment dataset](https://www.kaggle.com/datasets/cakiki/muse-the-musical-sentiment-dataset)
 - [sentence-transformers](https://www.sbert.net/)
 - [Qdrant](https://qdrant.tech/), [Milvus](https://milvus.io/), [Weaviate](https://weaviate.io/), [Pinecone](https://www.pinecone.io/), [TopK](https://topk.io/), [sqlite-vec](https://github.com/asg017/sqlite-vec)
+
