@@ -1,0 +1,28 @@
+python-dotenv
+pandas
+numpy
+tqdm
+matplotlib
+mplcyberpunk
+PyYAML
+pyarrow
+torch
+uvicorn
+fastapi
+yaspin
+
+# Embeddings
+sentence-transformers
+# If you prefer OpenAI, install openai>=1.30.0 and set OPENAI_API_KEY
+openai
+
+# Vector DB clients
+qdrant-client
+pymilvus
+weaviate-client
+topk-sdk
+pinecone
+sqlite-vec
+google-api-core
+protobuf
+googleapis-common-protos
